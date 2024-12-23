@@ -1,5 +1,5 @@
-<h1 align=“center”>嗨👋，我是超级晶格</h1>
-<h3 align=“center”>来自印度的热情前端开发者</h3>
+<h1 align=“center”>Hi 👋, I'm Jinggg</h1>
+<h3 align=“center”>Master student at University of Chinese Academy of Sciences</h3>
 
 <p align=“left”> <img src=“https://komarev.com/ghpvc/?username=superjinggg&label=Profile%20views&color=0e75b6&style=flat” alt=“superjinggg” /> </p>
 
