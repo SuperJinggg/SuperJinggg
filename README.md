@@ -1,24 +1,79 @@
-<h1 align=“center”>Hi 👋, I'm Jinggg</h1>
-<h3 align=“center”>Master student at University of Chinese Academy of Sciences</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=Welcome+to+My+GitHub+Profile;Exploring+the+world+of+code;Sharing+my+projects+and+learnings;Enjoy+your+stay!&width=600&height=180">
+</p>
 
-<p align=“left”> <img src=“https://komarev.com/ghpvc/?username=SuperJinggg&label=Profile%20views&color=0e75b6&style=flat” alt=“SuperJinggg” /> </p>
+<h2 align="center">
+    ──「 Jinggg 的 PROFILE 」──
+</h2>
 
-<p align=“left”> <a href=“https://github.com/ryo-ma/github-profile-trophy”><img src=“https://github-profile-trophy.vercel.app/?username=SuperJinggg” alt=“SuperJinggg” /></a> </p>
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <h3>About Me</h3>
+    <p>
+      Hey there! 👋 I'm a passionate programmer and technology enthusiast.
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://telegra.ph/file/a3c11f6e1a040849c489b.jpg" width="200" alt="Profile Image">
+  </div>
+</div>
 
-- 🔭 我目前正在研究 [anomaly detection]
+<br>
 
-- 🌱 我正在学习 **pytorch, telegram bot**
+## My GitHub Profile Metrics
 
-- 💬 问我关于**anomaly detection**
+<p align="center"> 
+  Total Visitors<br>
+  <img src="https://profile-counter.glitch.me/SuperJinggg/count.svg" />
+</p>
 
-- 📫 如何联系我**yangjingyu82@163.com**
+### GitHub Overview
 
-<h3 align=“left”>语言和工具：</h3>
-<p align=“left”> <a href=“https://www.docker.com/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg” alt=“docker” width=“40” height=“40”/> </a> <a href=“https://www.java.com” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg” alt=“java” width=“40” height=“40”/> </a> <a href=“https://www.linux.org/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg” alt=“linux” width=“40” height=“40”/> </a> <a href=“https://www.mongodb.com/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg” alt=“mongodb” width=“40” height=“40”/> </a> <a href=“https://www.mysql.com/” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg” alt=“mysql” width=“40” height=“40”/> </a> <a href=“https://www.postgresql.org” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg” alt=“postgresql” width=“40” height=“40”/> </a> <a href=“https://www.python.org” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg” alt=“python” width=“40” height=“40”/> </a> <a href=“https://pytorch.org/” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg” alt=“pytorch” width=“40” height=“40”/> </a> <a href=“https://redis.io” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg” alt=“redis” width=“40” height=“40”/> </a> <a href=“https://spring.io/” target=“_blank” rel=“noreferrer”> <img src=“https://www.vectorlogo.zone/logos/springio/springio-icon.svg” alt=“spring” width=“40” height=“40”/> </a> </p>
+<a href="https://github.com/SuperJinggg/github-readme-stats">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SuperJinggg&show_icons=True&include_all_commits=True&count_private=True&theme=react&hide_border=True&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+</a>
 
-<p><img align=“left” src=“https://github-readme-stats.vercel.app/api/top-langs?username=SuperJinggg&show_icons=true&locale=en&layout=compact” alt=“SuperJinggg” /></p>
+### Activity Graph
 
-<p>&nbsp;<img align=“center” src=“https://github-readme-stats.vercel.app/api?username=SuperJinggg&show_icons=true&locale=en” alt=“SuperJinggg” /></p>
+<a href="https://github.com/SuperJinggg/github-readme-activity-graph">
+  <img alt="User Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=SuperJinggg&bg_color=282828&color=ebdbb2&line=83a598&point=ffffff&hide_border=true" />
+</a>
 
-<p><img align=“center” src=“https://github-readme-streak-stats.herokuapp.com/?user=SuperJinggg&” alt=“SuperJinggg” /></p>
+### 💻 Tech Stack
 
+- Programming Languages: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GO](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+- Hosting/SaaS: ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+- Back-end Development: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- Databases: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+<br>
+
+### 🌱 Learning
+
+I'm always eager to learn new technologies and expand my skillset. Currently, I'm focusing on:
+
+- Machine Learning and Artificial Intelligence
+- DevOps and Cloud Computing
+
+<br>
+
+### 🤝 Collaboration
+
+I enjoy collaborating with other developers and learning from their experiences. If you have any exciting projects or ideas, feel free to reach out. Let's create something awesome together!
+
+<br>
+
+### 📫 Contact Me
+
+You can connect with me on various platforms:
+
+- [![telegram](https://img.shields.io/badge/🄺🄰🅁🄼🄰-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/O_oKarma)
+- [![gmail](https://img.shields.io/badge/makandu2054@gmail.com-Gmail-red?style=for-the-badge&logo=gmail)](mailto:makandu2054@gmail.com)
+
+<br>
+
+### ⚡ Fun Fact
+
+Did you know? The first computer mouse was made of wood.
+
+Thanks for visiting my profile! Feel free to explore my repositories, and don't forget to leave a star ⭐️ if you find something interesting!
