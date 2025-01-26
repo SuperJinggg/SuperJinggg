@@ -16,10 +16,10 @@
 
 <p align='center'>
   📫 Contact Me<br/><br/>
-  <a href="https://github.com/sponsors/alexandresanlim">
+  <a href="">
     <img src="https://img.shields.io/badge/Tencent_QQ-EB1923?style=for-the-badge&logo=TencentQQ&logoColor=white" />        
   </a>
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
+  <a href="">
     <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
   </a>
 </p>
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD%20Ryzen_9_9950X3D-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%205090-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-RTX%205090-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <details>
