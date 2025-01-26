@@ -42,7 +42,7 @@
 👨🏻‍🎓 Bachelor of Engineering\
 📍 **Jiangsu University** - Zhenjiang , China
 
-- 📖 **Industrial anomaly detection**\
+- 📖 **Industrial Anomaly Detection**\
 📆 2023 - 2026\
 👨🏻‍🎓 Master of Engineering\
 📍 **University of Chinese Academy of Sciences** - Beijing , China
@@ -61,7 +61,7 @@
 <img align="right" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 
-- 👨‍💻 **Deep learning developer**\
+- 👨‍💻 **Deep Learning Developer**\
 📆 2023 - 2026\
 📍 **CBPM-KEXIN** - Chengdu, China
 
