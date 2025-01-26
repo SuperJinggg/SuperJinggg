@@ -39,10 +39,12 @@
 
 - 📖 **Internet of Things Engineering**\
 📆 2019 - 2023\
+👨🏻‍🎓 Bachelor of Engineering
 📍 **Jiangsu University** - Zhenjiang , China
 
 - 📖 **Industrial anomaly detection**\
 📆 2023 - 2026\
+👨🏻‍🎓 Master of Engineering
 📍 **University of Chinese Academy of Sciences** - Beijing , China
 
 ## Experience
